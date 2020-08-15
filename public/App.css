@@ -1,0 +1,24 @@
+
+.container.main{
+	margin-top:7.0em;
+	margin-bottom:7.00em;
+}
+
+i.icon{
+	font-size:20px;
+}
+body{
+	max-height:50%;
+}
+#delete{
+	display:inline;
+}
+#buttons{
+	margin-top:15px;
+}
+.content{
+	margin-bottom:10px;
+}
+#home{
+	padding-left:20px;
+}
